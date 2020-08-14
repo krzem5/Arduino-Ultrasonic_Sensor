@@ -9,6 +9,7 @@ Ultrasonic ds(10,9);
 
 
 void setup(){
+	ds.init();
 	lcd.size(16,2);
 	lcd.init();
 	lcd.write("Distance:");
