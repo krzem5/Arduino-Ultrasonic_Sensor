@@ -1,5 +1,5 @@
-#include <LCD.h>
-#include <Ultrasonic.h>
+#include <include/lcd.h>
+#include <include/ultrasonic.h>
 
 
 

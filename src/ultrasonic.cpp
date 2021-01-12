@@ -1,5 +1,5 @@
-#include <Arduino.h>
-#include <Ultrasonic.h>
+#include <arduino.h>
+#include <include/ultrasonic.h>
 
 
 
